@@ -1,5 +1,5 @@
 ---
-title: 'kostenreductie&#8230;kostenreductie&#8230;kostenreductie'
+title: 'kostenreductie…kostenreductie…kostenreductie'
 date: '2009-07-15T18:56:23-04:00'
 author: jasper@kraak.com
 tags:
