@@ -1,9 +1,7 @@
 ---
-id: 25
 title: SharePoint
 date: '2009-07-14T01:24:57-04:00'
 author: jasper@kraak.com
-guid: 'http://jasperkraak.wordpress.com/2009/07/14/sharepoint'
 tags:
     - WPC2009
 ---
