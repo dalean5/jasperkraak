@@ -41,5 +41,4 @@ module.exports = (config) => {
     return tagList.sort((a, b) => b.tagCount - a.tagCount)
 
   });
-
 }
