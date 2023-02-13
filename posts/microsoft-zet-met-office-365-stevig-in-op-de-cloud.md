@@ -1,0 +1,18 @@
+---
+title: 'Microsoft zet met Office 365 stevig in op de cloud'
+date: '2011-05-12T20:30:47-04:00'
+author: jasper@kraak.com
+tags:
+    - Uncategorized
+---
+
+Met Office 365 zet Microsoft stevig in op de cloud. Niet als eerste, maar wel meteen overtuigend. De opvolger van BPOS (Business Productivity Online Suite) maakt het voor bedrijven aantrekkelijker om de overstap te maken naar de webversies van kantoorpakketten. De belangrijkste drempel die nog genomen moet worden is de ingebakken huiver die bedrijven hebben voor de cloud.  
+Office 365 moet de standaard worden voor kantoorapplicaties in de cloud – voor grote bedrijven, maar ook voor eenpitters. Het feit dat abonnementen nu per gebruiker zijn af te sluiten, zorgt ervoor dat het pakket voor zzp’ers en kleine bedrijfjes interessant is. Het bezwaar van voorloper BPOS was dat het vanaf vijf licenties beschikbaar was. Er komen verschillende abonnementsvarianten. Vanaf 5,25 euro per gebruiker per maand is er een abonnement met de belangrijkste Office-toepassingen als webapplicatie. Het uitgebreidste abonnement kost 25,50 euro per gebruiker per maand en daarin zitten alle Office-toepassingen in de lokale variant en als online versie plus onder meer Exchange, SharePoint en Lync Online met uitgebreide ondersteuning. Het is in mogelijkheden en omvang nauwelijks vergelijkbaar met Google Apps wat mij betreft. Ik denk dat Google Apps met de introductie van Office 365 volkomen kansloos is op de zakelijke markt.  
+De financiële propositie  
+Het belangrijkste argument voor bedrijven om de overstap te maken is de financiële propositie. Een groot bedrijf met ongeveer 1.000 gebruikers is aan abonnementen ongeveer hetzelfde kwijt als het nu aan aanschaf- en licentiekosten heeft. De winst zit dus in de hardware- en beheerkosten, die vrijwel volledig verdwijnen. Dat is op jaarbasis een behoorlijk bespaarpotentieel.  
+Huiver voor de cloud  
+De huiver voor de cloud – hoe zeker is de beschikbaarheid en hoe veilig zijn de gegevens? – is in mijn ogen een achterhoedegevecht. In de komende vijf, zes jaar zal de IT steeds meer hybride vormen krijgen. Over tien tot vijftien jaar is het merendeel van de applicaties en bewerkingen in de cloud ondergebracht. De cloud gaat niet alleen het IT-landschap veranderen, maar ook het werk van de IT-ers. Met techneuten praten over de cloud, is net zoals met een kalkoen praten over het kerstdiner, dat is een mooi gezegde. De techneuten zullen zich moeten ontwikkelen als de server naar de cloud verdwijnt en de eindgebruiker veel zelfvoorzienend wordt. IT-ers zullen zich vooral met connectivity bezig moeten houden.  
+Migratie in enkele weken  
+Ik verwacht dat de officiële versie half juli gelanceerd wordt. Drie maanden na de release van de beta-versie, dat is een gebruikelijk termijn. Bovendien wordt van 10 tot 14 juli ook de Microsoft Worldwide Partner Conference in Los Angeles gehouden, een mooie gelegenheid voor de lancering.  
+Bedrijven die nu BPOS gebruiken, worden binnen een jaar door Microsoft overgezet naar Office 365. Nieuwe gebruikers die van de lokale Office-pakket over willen stappen naar de online versie (plus eventueel de lokale versie erbij) moeten rekenen op een migratietraject van een week voor een bedrijf van zo’n 25-50 gebruikers en twee tot drie weken voor de grotere bedrijven. Dat is ook afhankelijk van het pakket dat je kiest.  
+Jasper Kraak is trainer/consultant bij Microsoft-partner Qwise in Amsterdam. Hij is voor Microsoft bezig met het marktklaar maken van Office 365 en heeft sinds februari hierover presentaties gegeven aan zo’n 300 personen bij Microsoft-partners en grotere ondernemingen. Jasper Kraak is één van de eersten wereldwijd die de officiële Office 365-training gaat geven.
