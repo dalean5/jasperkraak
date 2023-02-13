@@ -8,11 +8,11 @@ eleventyNavigation:
   weight: 2
 ---
 
-<img width="50" height="42" src="https://www.kraak.com/wp-content/uploads/2014/03/ams_teched2012_3-e1667146293390.jpg">
+<img width="50" height="42" src="https://kraakstaticstore.blob.core.windows.net/images/ams_teched2012_3-e1667146293390.jpg">
 
 KRAAK ARUBA N.V. Piedra Plat 104 Q, Aruba (Chamber of Commerce Aruba: H38178.0)
 
-<img src="https://www.kraak.com/wp-content/uploads/2022/11/MS-Partner22.png" alt="" class="wp-image-2933" width="209" height="70">
+<img src="https://kraakstaticstore.blob.core.windows.net/images/MS-Partner22.png" alt="" class="wp-image-2933" width="209" height="70">
 
 JASPER@KRAAK.COM
 
@@ -25,4 +25,4 @@ Find my Blogs [https://www.kraak.com/](https://www.kraak.com/) or follow me on T
 
 [My Microsoft Transcript](https://learn.microsoft.com/en-us/users/jasperkraak-0276/transcript/dqnw5t293nr6n5l)
 
-[My Resume](https://www.kraak.com/wp-content/uploads/2022/10/cvjkraak-jan22-en.pdf)
+[My Resume](https://kraakstaticstore.blob.core.windows.net/documents/cvjkraak-jan22-en.pdf)
